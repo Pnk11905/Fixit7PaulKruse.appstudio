@@ -1,3 +1,5 @@
+//String & Number Methods, Loops and Functions and Scope
+
 // 3) Question: How many times will this FOR loop print an alert message to the user? 
 
 // It will print 6 times an alert message 
